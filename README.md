@@ -1,6 +1,6 @@
 # SpokaneDSA.github.io
 
-Official website for the Democratic Socialists of America - Spokane Chapter.
+Official website for the Spokane Democratic Socialists of America.
 
 This site is built with [VuePress](https://v2.vuepress.vuejs.org/) using the [Plume theme](https://github.com/pengzhanbo/vuepress-theme-plume) and automatically deploys to GitHub Pages.
 
