@@ -1,0 +1,50 @@
+:root {
+  /* DSA Brand Colors */
+  /* Primary red color - DSA signature color */
+  --vp-c-brand: #ec1f27;
+  --vp-c-brand-light: #f44249;
+  --vp-c-brand-lighter: #f96b70;
+  --vp-c-brand-dark: #d11b22;
+  --vp-c-brand-darker: #b7181e;
+  
+  /* Accent color */
+  --vp-c-accent: #ec1f27;
+  --vp-c-accent-light: #f44249;
+  --vp-c-accent-dark: #d11b22;
+
+  /* Text colors */
+  --vp-c-text-1: #1a1a1a;
+  --vp-c-text-2: #3a3a3a;
+  --vp-c-text-3: #5a5a5a;
+
+  /* Background colors */
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-soft: #f9f9f9;
+  --vp-c-bg-mute: #f1f1f1;
+
+  /* Links */
+  --vp-c-link: #ec1f27;
+  --vp-c-link-hover: #d11b22;
+}
+
+/* Dark mode colors */
+.dark {
+  --vp-c-text-1: #f0f0f0;
+  --vp-c-text-2: #d0d0d0;
+  --vp-c-text-3: #b0b0b0;
+
+  --vp-c-bg: #1a1a1a;
+  --vp-c-bg-soft: #242424;
+  --vp-c-bg-mute: #2e2e2e;
+}
+
+/* Custom overrides for buttons and interactive elements */
+.vp-button.brand {
+  background-color: var(--vp-c-brand);
+  border-color: var(--vp-c-brand);
+}
+
+.vp-button.brand:hover {
+  background-color: var(--vp-c-brand-dark);
+  border-color: var(--vp-c-brand-dark);
+}
