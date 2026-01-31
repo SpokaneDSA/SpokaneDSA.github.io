@@ -17,7 +17,7 @@ export default defineUserConfig({
     profile: {
       name: 'Spokane DSA',
       description: 'Democratic Socialists of America - Spokane Chapter',
-      avatar: '/images/hero.jpg',
+      avatar: '/images/hero.svg',
     },
 
     navbar: [

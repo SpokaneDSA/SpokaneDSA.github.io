@@ -1,0 +1,47 @@
+/* Additional style overrides for Plume theme to match DSA branding */
+
+/* Override theme colors to ensure DSA red is used */
+:root {
+  /* Plume theme color variables */
+  --vp-c-brand-1: #ec1f27;
+  --vp-c-brand-2: #f44249;
+  --vp-c-brand-3: #d11b22;
+  
+  /* Primary color overrides */
+  --vp-button-brand-bg: #ec1f27;
+  --vp-button-brand-hover-bg: #d11b22;
+  --vp-button-brand-active-bg: #b7181e;
+  
+  /* Hero title gradient - use red tones instead of blue/purple */
+  --vp-home-hero-name-color: #ec1f27;
+}
+
+/* Override hero name gradient to use DSA red */
+.vp-hero .name {
+  background: linear-gradient(120deg, #ec1f27 30%, #f44249);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Ensure links use DSA red */
+a {
+  color: #ec1f27;
+}
+
+a:hover {
+  color: #d11b22;
+}
+
+/* Override button styles */
+.vp-button[data-theme="brand"],
+.vp-button.brand {
+  background-color: #ec1f27 !important;
+  border-color: #ec1f27 !important;
+}
+
+.vp-button[data-theme="brand"]:hover,
+.vp-button.brand:hover {
+  background-color: #d11b22 !important;
+  border-color: #d11b22 !important;
+}

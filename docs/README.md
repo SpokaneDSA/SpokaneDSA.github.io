@@ -1,15 +1,16 @@
 ---
-home: true
-heroImage: /images/hero.jpg
-heroText: Spokane DSA
-tagline: Democratic Socialists of America - Spokane Chapter
-actions:
-  - text: Join Us
-    link: /join/
-    type: primary
-  - text: Learn More
-    link: /about/
-    type: secondary
+pageLayout: home
+hero:
+  name: Spokane DSA
+  tagline: Democratic Socialists of America - Spokane Chapter
+  image: /images/hero.svg
+  actions:
+    - theme: brand
+      text: Join Us
+      link: /join/
+    - theme: alt
+      text: Learn More
+      link: /about/
 features:
   - title: Build Power
     details: We organize to build working-class power and fight for democratic socialism in Spokane and beyond.
