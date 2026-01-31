@@ -1,0 +1,38 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "**/.vuepress/dist": true,
+        "**/.vuepress/.temp": true,
+        "**/.vuepress/.cache": true
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/.vuepress/dist": true,
+        "**/.vuepress/.temp": true,
+        "**/.vuepress/.cache": true,
+        "**/package-lock.json": true
+    },
+    "files.associations": {
+        "*.vue": "vue",
+        "*.md": "markdown"
+    },
+    "editor.formatOnSave": true,
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        }
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
