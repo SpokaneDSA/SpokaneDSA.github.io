@@ -2,7 +2,7 @@
 pageLayout: home
 hero:
   name: Spokane DSA
-  tagline: Democratic Socialists of America - Spokane Chapter
+  tagline: Spokane Democratic Socialists of America
   image: /images/hero.svg
   actions:
     - theme: brand

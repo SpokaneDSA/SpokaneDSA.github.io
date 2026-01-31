@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: '/',
   lang: 'en-US',
   title: 'Spokane DSA',
-  description: 'Democratic Socialists of America - Spokane Chapter',
+  description: 'Spokane Democratic Socialists of America',
 
   bundler: viteBundler(),
 
@@ -16,7 +16,7 @@ export default defineUserConfig({
     
     profile: {
       name: 'Spokane DSA',
-      description: 'Democratic Socialists of America - Spokane Chapter',
+      description: 'Spokane Democratic Socialists of America',
       avatar: '/images/hero.svg',
     },
 
@@ -33,7 +33,7 @@ export default defineUserConfig({
     ],
 
     footer: {
-      message: 'Democratic Socialists of America - Spokane Chapter',
+      message: 'Spokane Democratic Socialists of America',
       copyright: 'Copyright © 2026 Spokane DSA',
     },
   }),
