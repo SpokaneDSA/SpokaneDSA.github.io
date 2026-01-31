@@ -1,24 +1,24 @@
 /* Additional style overrides for Plume theme to match DSA branding */
 
-/* Override theme colors to ensure DSA red is used */
+/* Override theme colors to match dsausa.org */
 :root {
-  /* Plume theme color variables */
-  --vp-c-brand-1: #ec1f27;
-  --vp-c-brand-2: #f44249;
-  --vp-c-brand-3: #d11b22;
+  /* Plume theme color variables - matching dsausa.org */
+  --vp-c-brand-1: #e70109;
+  --vp-c-brand-2: #ec1f27;
+  --vp-c-brand-3: #9f0005;
   
   /* Primary color overrides */
-  --vp-button-brand-bg: #ec1f27;
-  --vp-button-brand-hover-bg: #d11b22;
-  --vp-button-brand-active-bg: #b7181e;
+  --vp-button-brand-bg: #e70109;
+  --vp-button-brand-hover-bg: #9f0005;
+  --vp-button-brand-active-bg: #7a0004;
   
-  /* Hero title gradient - use red tones instead of blue/purple */
-  --vp-home-hero-name-color: #ec1f27;
+  /* Hero title gradient - use DSA red tones */
+  --vp-home-hero-name-color: #e70109;
 }
 
 /* Override hero name gradient to use DSA red */
 .vp-hero .name {
-  background: linear-gradient(120deg, #ec1f27 30%, #f44249);
+  background: linear-gradient(120deg, #e70109 30%, #ec1f27);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -26,22 +26,22 @@
 
 /* Ensure links use DSA red */
 a {
-  color: #ec1f27;
+  color: #e70109;
 }
 
 a:hover {
-  color: #d11b22;
+  color: #9f0005;
 }
 
 /* Override button styles */
 .vp-button[data-theme="brand"],
 .vp-button.brand {
-  background-color: #ec1f27 !important;
-  border-color: #ec1f27 !important;
+  background-color: #e70109 !important;
+  border-color: #e70109 !important;
 }
 
 .vp-button[data-theme="brand"]:hover,
 .vp-button.brand:hover {
-  background-color: #d11b22 !important;
-  border-color: #d11b22 !important;
+  background-color: #9f0005 !important;
+  border-color: #9f0005 !important;
 }

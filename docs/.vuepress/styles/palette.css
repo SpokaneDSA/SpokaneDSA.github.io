@@ -1,34 +1,41 @@
 :root {
-  /* DSA Brand Colors */
+  /* DSA Brand Colors - matching dsausa.org */
   /* Primary red color - DSA signature color */
-  --vp-c-brand: #ec1f27;
-  --vp-c-brand-light: #f44249;
-  --vp-c-brand-lighter: #f96b70;
-  --vp-c-brand-dark: #d11b22;
-  --vp-c-brand-darker: #b7181e;
+  --vp-c-brand: #e70109;
+  --vp-c-brand-light: #ec1f27;
+  --vp-c-brand-lighter: #ffe2d6;
+  --vp-c-brand-dark: #9f0005;
+  --vp-c-brand-darker: #7a0004;
   
   /* Accent color */
-  --vp-c-accent: #ec1f27;
-  --vp-c-accent-light: #f44249;
-  --vp-c-accent-dark: #d11b22;
+  --vp-c-accent: #e70109;
+  --vp-c-accent-light: #ec1f27;
+  --vp-c-accent-dark: #9f0005;
 
-  /* Text colors */
-  --vp-c-text-1: #1a1a1a;
+  /* Text colors - matching dsausa.org */
+  --vp-c-text-1: #241f20;
   --vp-c-text-2: #3a3a3a;
-  --vp-c-text-3: #5a5a5a;
+  --vp-c-text-3: #6d6d6d;
 
-  /* Background colors */
+  /* Background colors - matching dsausa.org */
   --vp-c-bg: #ffffff;
-  --vp-c-bg-soft: #f9f9f9;
-  --vp-c-bg-mute: #f1f1f1;
+  --vp-c-bg-soft: #f6f6f6;
+  --vp-c-bg-mute: #efefef;
 
   /* Links */
-  --vp-c-link: #ec1f27;
-  --vp-c-link-hover: #d11b22;
+  --vp-c-link: #e70109;
+  --vp-c-link-hover: #9f0005;
 }
 
-/* Dark mode colors */
+/* Dark mode colors - adjusted for DSA theme */
 .dark {
+  /* Keep bright DSA red visible in dark mode */
+  --vp-c-brand: #e70109;
+  --vp-c-brand-light: #ec1f27;
+  --vp-c-brand-lighter: #f44249;
+  --vp-c-brand-dark: #9f0005;
+  --vp-c-brand-darker: #7a0004;
+
   --vp-c-text-1: #f0f0f0;
   --vp-c-text-2: #d0d0d0;
   --vp-c-text-3: #b0b0b0;
@@ -36,6 +43,9 @@
   --vp-c-bg: #1a1a1a;
   --vp-c-bg-soft: #242424;
   --vp-c-bg-mute: #2e2e2e;
+
+  --vp-c-link: #ec1f27;
+  --vp-c-link-hover: #f44249;
 }
 
 /* Custom overrides for buttons and interactive elements */
