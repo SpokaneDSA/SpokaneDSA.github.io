@@ -1,0 +1,31 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch VuePress in Chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}/docs",
+            "preLaunchTask": "VuePress: Dev Server",
+            "serverReadyAction": {
+                "pattern": "Local:.*http://localhost:([0-9]+)",
+                "uriFormat": "http://localhost:%s",
+                "action": "openExternally"
+            }
+        },
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Launch VuePress in Edge",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}/docs",
+            "preLaunchTask": "VuePress: Dev Server",
+            "serverReadyAction": {
+                "pattern": "Local:.*http://localhost:([0-9]+)",
+                "uriFormat": "http://localhost:%s",
+                "action": "openExternally"
+            }
+        }
+    ]
+}
