@@ -28,7 +28,7 @@ We are your neighbors in Spokane who believe everyone deserves a good life. We w
 
 ### What We Do
 
-**Meet Together**: We meet on the first Tuesday of every month at 6 PM. Everyone is welcome to join us online or in person to plan actions and learn together.
+**Meet Together**: We meet on the first Tuesday of every month from 5:30 PM to 7:00 PM, with a social activity afterwards at a local pub or restaurant. Everyone is welcome to join us online or in person to plan actions and learn together.
 
 **Take Action**: We support workers fighting for better pay, help people find affordable housing, and fight for healthcare that everyone can afford.
 

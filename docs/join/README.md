@@ -50,7 +50,7 @@ That's it! You're now a member.
 Once you've joined:
 
 1. **Email us**: Send a message to spokanedsa@gmail.com to introduce yourself
-2. **Come to a meeting**: First Tuesday of every month at 6 PM
+2. **Come to a meeting**: First Tuesday of every month from 5:30 PM to 7:00 PM (social activity afterwards)
 3. **Follow us online**: Check out our Facebook and Instagram
 4. **Get involved**: Join a campaign or working group
 
@@ -74,7 +74,7 @@ When you join, you get:
 As a member, you can:
 
 ### Attend Meetings
-Come to our monthly general meeting on the first Tuesday at 6 PM. This is where we make decisions together and plan our work.
+Come to our monthly general meeting on the first Tuesday from 5:30 PM to 7:00 PM. This is where we make decisions together and plan our work. Afterwards, we usually meet up at a local pub or restaurant for socializing.
 
 ### Join Campaigns
 Work on issues you care about:
@@ -124,7 +124,7 @@ A: Your membership information is private. You control how public you want to be
 
 1. **Join national DSA**: Go to [dsausa.org/join](https://dsausa.org/join) and select Spokane
 2. **Email us**: Send a message to spokanedsa@gmail.com
-3. **Come to a meeting**: First Tuesday of every month at 6 PM
+3. **Come to a meeting**: First Tuesday of every month from 5:30 PM to 7:00 PM
 
 ## Still Have Questions?
 

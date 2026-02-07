@@ -39,9 +39,9 @@ We post updates about events, actions, and important issues on our social media.
 The best way to get to know us is to come to a meeting!
 
 **Monthly General Meeting**  
-First Tuesday of every month at 6:00 PM
+First Tuesday of every month from 5:30 PM to 7:00 PM
 
-Everyone is welcome, whether you're already a member or just curious about what we do. Email us at spokanedsa@gmail.com for the meeting link.
+Everyone is welcome, whether you're already a member or just curious about what we do. Email us at spokanedsa@gmail.com for the meeting link. After the meeting, we usually head to a local pub or restaurant to socialize.
 
 ## Questions?
 
@@ -80,7 +80,7 @@ We're based in Spokane, Washington, and we serve the greater Spokane area and su
 We're all volunteers, so we don't have a physical office or set office hours. The best ways to reach us are:
 - Email us at spokanedsa@gmail.com
 - Message us on social media
-- Come to our monthly meeting (first Tuesday at 6 PM)
+- Come to our monthly meeting (first Tuesday from 5:30 PM to 7:00 PM)
 
 ## National DSA
 

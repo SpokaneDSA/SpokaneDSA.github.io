@@ -41,7 +41,7 @@ We help organize mutual aid programs where neighbors help each other, especially
 
 ## Our Chapter
 
-The Spokane DSA chapter meets on the first Tuesday of every month at 6 PM. We welcome everyone who wants to make Spokane a better place.
+The Spokane DSA chapter meets on the first Tuesday of every month from 5:30 PM to 7:00 PM, with a social activity afterwards at a local pub or restaurant. We welcome everyone who wants to make Spokane a better place.
 
 At our meetings, we:
 - Plan campaigns and actions

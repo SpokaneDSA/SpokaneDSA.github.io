@@ -10,7 +10,7 @@ Join us for meetings, actions, and community events! Everyone is welcome.
 
 <!-- [Image placeholder: Monthly meeting in progress] -->
 
-**When**: First Tuesday of every month at 6:00 PM  
+**When**: First Tuesday of every month from 5:30 PM to 7:00 PM  
 **Where**: Usually online via Zoom (check your email or contact us for the link)  
 **Who**: All members and interested people are welcome
 
@@ -20,6 +20,8 @@ At our monthly meetings, we:
 - Make decisions together
 - Learn about important issues
 - Connect with other members
+
+**After the meeting**: We usually go to a local pub or restaurant for socializing. It's a great way to get to know other members in a relaxed setting!
 
 **New to DSA?** No problem! Come to a meeting to learn more. We're friendly and happy to answer your questions.
 
@@ -31,7 +33,7 @@ At our monthly meetings, we:
 
 Check back here regularly for information about:
 
-- **General membership meetings** - Every first Tuesday
+- **General membership meetings** - Every first Tuesday from 5:30 PM to 7:00 PM, with social time afterwards
 - **Community actions** - Rallies, marches, and protests for justice
 - **Educational events** - Learn about issues and organizing
 - **Social gatherings** - Get to know other members
@@ -66,7 +68,7 @@ We organize:
 
 ### Meetings and Planning
 We hold:
-- Monthly general meetings (first Tuesday)
+- Monthly general meetings (first Tuesday from 5:30 PM to 7:00 PM)
 - Working group meetings
 - Campaign planning sessions
 - Officer and committee meetings
@@ -78,7 +80,7 @@ Want to know about upcoming events? Here's how:
 1. **Join DSA**: [Become a member](/join/) and get added to our email list
 2. **Follow us on social media**: Check Facebook and Instagram for updates
 3. **Email us**: Send a message to spokanedsa@gmail.com to join our email list
-4. **Come to a meeting**: First Tuesday of every month!
+4. **Come to a meeting**: First Tuesday of every month from 5:30 PM to 7:00 PM!
 
 ## Recent Activities
 
@@ -100,4 +102,4 @@ Have an idea for an event? Want to help plan something? [Contact us](/contact/) 
 
 ---
 
-*See you at the next meeting on the first Tuesday of the month!*
+*See you at the next meeting on the first Tuesday of the month at 5:30 PM!*
