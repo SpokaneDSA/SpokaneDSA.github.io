@@ -30,6 +30,8 @@ export default defineUserConfig({
 
     social: [
       { icon: 'github', link: 'https://github.com/SpokaneDSA' },
+      { icon: 'facebook', link: 'https://www.facebook.com/SpokaneDSA' },
+      { icon: 'instagram', link: 'https://www.instagram.com/spokanedsa' },
     ],
 
     footer: {

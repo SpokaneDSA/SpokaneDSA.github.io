@@ -4,50 +4,138 @@ title: Join Spokane DSA
 
 # Join Spokane DSA
 
-Joining DSA means becoming part of a movement for economic, racial, and social justice. As a member, you'll have the opportunity to participate in campaigns, attend events, and help shape the direction of our chapter.
+<!-- [Image placeholder: Diverse group of DSA members standing together] -->
+
+Welcome! Joining DSA means becoming part of a movement of regular people fighting for justice and fairness. Together, we can make real change in Spokane and across the country.
 
 ## Why Join?
 
-- **Make a Difference**: Participate in campaigns that fight for real change in our community
-- **Build Community**: Connect with like-minded activists and organizers
-- **Learn and Grow**: Develop organizing skills and political education
-- **Democratic Participation**: Have a voice in determining our chapter's priorities and activities
+### Make Real Change
+When we work together, we can win things that help everyone:
+- Better pay and working conditions
+- More affordable housing
+- Healthcare that covers everyone
+- A healthier environment
+- A government that listens to regular people
+
+### Meet Great People
+Connect with your neighbors who care about the same things you do. Make friends, learn from each other, and support one another.
+
+<!-- [Image placeholder: Members socializing at an event] -->
+
+### Learn and Grow
+Develop skills in:
+- Community organizing
+- Public speaking
+- Campaign planning
+- Understanding important issues
+
+### Have a Voice
+As a member, you get to vote on what our chapter does. Everyone's opinion matters equally.
 
 ## How to Join
 
-### National Membership
+### Step 1: Join National DSA
 
-To join Spokane DSA, you must first become a member of the national organization:
+To join the Spokane chapter, you first become a member of the national organization:
 
-1. Visit [dsausa.org/join](https://dsausa.org/join)
-2. Choose your membership level (sliding scale available)
-3. Select Spokane as your local chapter
+1. Go to [dsausa.org/join](https://dsausa.org/join)
+2. Select **Spokane** as your local chapter
+3. Choose how much you can pay
 
-Membership includes:
-- Access to members-only events and meetings
-- Voting rights in chapter and national decisions
-- Subscription to Democratic Left magazine
-- Discounts on DSA merchandise
+That's it! You're now a member.
 
-### Connect with Our Chapter
+### Step 2: Connect with Spokane DSA
 
-Once you've joined nationally, connect with our local chapter:
+Once you've joined:
 
-- Attend our monthly general meetings
-- Join our communication channels
-- Participate in working groups and committees
-- Volunteer for campaigns and actions
+1. **Email us**: Send a message to spokanedsa@gmail.com to introduce yourself
+2. **Come to a meeting**: First Tuesday of every month from 5:30 PM to 7:00 PM (social activity afterwards)
+3. **Follow us online**: Check out our Facebook and Instagram
+4. **Get involved**: Join a campaign or working group
 
-## Membership Levels
+<!-- [Image placeholder: New member being welcomed at a meeting] -->
 
-DSA offers a sliding scale for membership dues to ensure everyone can participate regardless of their financial situation:
+## What Does Membership Include?
 
-- **Standard**: $60/year
-- **Low Income**: $36/year (for those making under $30,000/year)
-- **Student/Unemployed**: $27/year
+When you join, you get:
 
-## Get Involved Today
+- **Voting rights**: Help decide what our chapter does
+- **Members-only events**: Special meetings and activities
+- **Democratic Left magazine**: A magazine about politics and ideas
+- **National resources**: Access to training and materials
+- **Discounts**: Save money on DSA merchandise
+- **Community**: Be part of something bigger than yourself
 
-Ready to join the fight for democratic socialism? [Join DSA now](https://dsausa.org/join) and select Spokane as your chapter.
+## What Do Members Do?
 
-Questions? [Contact us](/contact/) to learn more about membership and how to get involved.
+<!-- [Image placeholder: Members working on a campaign] -->
+
+As a member, you can:
+
+### Attend Meetings
+Come to our monthly general meeting on the first Tuesday from 5:30 PM to 7:00 PM. This is where we make decisions together and plan our work. Afterwards, we usually meet up at a local pub or restaurant for socializing.
+
+### Join Campaigns
+Work on issues you care about:
+- Supporting workers and unions
+- Fighting for affordable housing
+- Pushing for healthcare for all
+- Taking action on climate change
+- Building community support networks
+
+### Join a Working Group
+Work with other members on specific projects or issues. We have groups focused on different campaigns and activities.
+
+### Take on Leadership
+Run for positions in the chapter, lead a campaign, or help organize events. We're run by our members, so your ideas and energy matter!
+
+### Bring Your Skills
+Whatever you're good at, we can use it:
+- Good with computers? Help with our website
+- Like to write? Help with communications
+- Good at planning? Help organize events
+- Like talking to people? Help with outreach
+- Good at art? Help make posters and graphics
+
+## Frequently Asked Questions
+
+**Q: Do I have to call myself a socialist?**  
+A: You don't have to call yourself anything. If you believe in fairness and justice, you're welcome here.
+
+**Q: I've never done activism before. Is that okay?**  
+A: Absolutely! Many of our members were new to activism when they joined. We'll help you learn.
+
+**Q: How much time do I need to commit?**  
+A: As much or as little as you want. Some people come to monthly meetings. Others volunteer every week. You decide what works for you.
+
+**Q: What if I can't afford membership?**  
+A: DSA membership uses a sliding scale, which means you pay what you can afford. Nobody is turned away for lack of money. Contact us at spokanedsa@gmail.com if you have questions. Money should never be a barrier.
+
+**Q: Do I have to agree with everything DSA does?**  
+A: No! Members have diverse views. We make decisions democratically, and disagreement is healthy.
+
+**Q: I'm worried about my privacy. Is my membership public?**  
+A: Your membership information is private. You control how public you want to be about your involvement.
+
+<!-- [Image placeholder: Happy members at an event] -->
+
+## Ready to Join?
+
+1. **Join national DSA**: Go to [dsausa.org/join](https://dsausa.org/join) and select Spokane
+2. **Email us**: Send a message to spokanedsa@gmail.com
+3. **Come to a meeting**: First Tuesday of every month from 5:30 PM to 7:00 PM
+
+## Still Have Questions?
+
+No problem! You can:
+- Email us at spokanedsa@gmail.com
+- Come to a monthly meeting and ask in person
+- [Contact us](/contact/) through our website
+- Message us on Facebook or Instagram
+
+We're friendly and happy to answer any questions you have. We look forward to having you join us!
+
+---
+
+*Together, we can build a better future for Spokane and beyond.*
