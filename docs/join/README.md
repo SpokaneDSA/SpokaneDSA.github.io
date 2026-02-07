@@ -40,8 +40,8 @@ As a member, you get to vote on what our chapter does. Everyone's opinion matter
 To join the Spokane chapter, you first become a member of the national organization:
 
 1. Go to [dsausa.org/join](https://dsausa.org/join)
-2. Choose how much you can pay (see prices below)
-3. Select **Spokane** as your local chapter
+2. Select **Spokane** as your local chapter
+3. Choose how much you can pay
 
 That's it! You're now a member.
 
@@ -66,16 +66,6 @@ When you join, you get:
 - **National resources**: Access to training and materials
 - **Discounts**: Save money on DSA merchandise
 - **Community**: Be part of something bigger than yourself
-
-## How Much Does it Cost?
-
-DSA membership uses a sliding scale, which means you pay what you can afford. Nobody is turned away for lack of money.
-
-- **Regular**: $60 per year (about $5 per month)
-- **Low Income**: $36 per year (for people making under $30,000/year)
-- **Student or Unemployed**: $27 per year
-
-Can't afford the membership fee? Contact us at spokanedsa@gmail.com. We want everyone who wants to be involved to be able to join.
 
 ## What Do Members Do?
 
@@ -120,7 +110,7 @@ A: Absolutely! Many of our members were new to activism when they joined. We'll 
 A: As much or as little as you want. Some people come to monthly meetings. Others volunteer every week. You decide what works for you.
 
 **Q: What if I can't afford membership?**  
-A: Contact us at spokanedsa@gmail.com. We'll work something out. Money should never be a barrier.
+A: DSA membership uses a sliding scale, which means you pay what you can afford. Nobody is turned away for lack of money. Contact us at spokanedsa@gmail.com if you have questions. Money should never be a barrier.
 
 **Q: Do I have to agree with everything DSA does?**  
 A: No! Members have diverse views. We make decisions democratically, and disagreement is healthy.
