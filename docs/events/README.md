@@ -4,48 +4,100 @@ title: Events
 
 # Events
 
-Stay updated on Spokane DSA's upcoming events, meetings, and actions.
+Join us for meetings, actions, and community events! Everyone is welcome.
 
 ## Monthly General Meeting
 
-We hold general membership meetings every month where we discuss chapter business, plan campaigns, and make decisions democratically.
+<!-- [Image placeholder: Monthly meeting in progress] -->
 
-**When**: First Thursday of each month at 6:30 PM  
-**Where**: To be announced  
-**Who**: All members welcome
+**When**: First Tuesday of every month at 6:00 PM  
+**Where**: Usually online via Zoom (check your email or contact us for the link)  
+**Who**: All members and interested people are welcome
+
+At our monthly meetings, we:
+- Discuss what's happening in Spokane
+- Plan campaigns and actions
+- Make decisions together
+- Learn about important issues
+- Connect with other members
+
+**New to DSA?** No problem! Come to a meeting to learn more. We're friendly and happy to answer your questions.
+
+**Want to attend?** Email us at spokanedsa@gmail.com for the meeting link and details.
 
 ## Upcoming Events
 
-Check back here for information about:
+<!-- [Image placeholder: Calendar or upcoming event photo] -->
 
-- General membership meetings
-- Political education sessions
-- Community organizing actions
-- Social events
-- Solidarity rallies
-- Campaign events
+Check back here regularly for information about:
+
+- **General membership meetings** - Every first Tuesday
+- **Community actions** - Rallies, marches, and protests for justice
+- **Educational events** - Learn about issues and organizing
+- **Social gatherings** - Get to know other members
+- **Volunteer opportunities** - Help with campaigns and projects
+- **Coalition events** - Working with other community groups
+
+## Types of Events We Organize
+
+### Political Education
+We host workshops and discussions to learn about:
+- Workers' rights and labor organizing
+- Housing justice and tenant rights
+- Healthcare policy
+- Climate change and environmental justice
+- Democratic socialism and history
+
+### Direct Action
+We participate in:
+- Picket lines supporting workers on strike
+- Rallies for important causes
+- Community organizing campaigns
+- Coalition actions with other groups
+
+<!-- [Image placeholder: DSA members at a community action] -->
+
+### Community Building
+We organize:
+- Social events to get to know each other
+- Volunteer days for community projects
+- Mutual aid programs to help neighbors in need
+- Fundraisers for local causes
+
+### Meetings and Planning
+We hold:
+- Monthly general meetings (first Tuesday)
+- Working group meetings
+- Campaign planning sessions
+- Officer and committee meetings
 
 ## Stay Informed
 
-To receive updates about our events:
+Want to know about upcoming events? Here's how:
 
-1. Join our chapter after becoming a national member
-2. Follow us on social media
-3. Subscribe to our email list
-4. [Contact us](/contact/) to be added to our communications
+1. **Join DSA**: [Become a member](/join/) and get added to our email list
+2. **Follow us on social media**: Check Facebook and Instagram for updates
+3. **Email us**: Send a message to spokanedsa@gmail.com to join our email list
+4. **Come to a meeting**: First Tuesday of every month!
 
-## Past Events
+## Recent Activities
 
-We regularly organize and participate in:
+<!-- [Image placeholder: Recent event photos] -->
 
-- Workers' rights actions
-- Housing justice campaigns
-- Healthcare advocacy
-- Climate justice events
-- Mutual aid programs
-- Political education workshops
-- Community outreach
+Our chapter regularly organizes and participates in activities including:
 
-## Host an Event
+- Supporting local workers and unions
+- Fighting for affordable housing
+- Advocating for healthcare access
+- Addressing climate change
+- Building community through mutual aid
+- Educating members and the public
+- Working with other progressive groups
 
-Interested in organizing an event with Spokane DSA? [Contact us](/contact/) to discuss collaboration opportunities.
+## Want to Help Organize?
+
+Have an idea for an event? Want to help plan something? [Contact us](/contact/) or bring your ideas to our monthly meeting. We welcome all members to help organize and lead activities.
+
+---
+
+*See you at the next meeting on the first Tuesday of the month!*
