@@ -1,16 +1,10 @@
 ---
-pageLayout: home
-hero:
-  name: Spokane DSA
-  tagline: Building a better future together
-  image: /images/hero.svg
-  actions:
-    - theme: brand
-      text: Join Us
-      link: /join/
-    - theme: alt
-      text: Learn More
-      link: /about/
+home: true
+heroImage: /images/hero.svg
+heroText: Spokane DSA
+tagline: Building a better future together
+actionText: Join Us →
+actionLink: /join/
 features:
   - title: Build Power
     details: We bring together working people in Spokane to fight for fairness and justice in our community.
@@ -18,6 +12,7 @@ features:
     details: Join us to fight for better jobs, affordable housing, healthcare for everyone, and a healthy planet.
   - title: Solidarity
     details: We believe in helping each other and working together to make life better for all people.
+footer: Copyright © 2026 Spokane DSA
 ---
 
 ## Welcome to Spokane DSA

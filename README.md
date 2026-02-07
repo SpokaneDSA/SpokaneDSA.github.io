@@ -2,7 +2,7 @@
 
 Official website for the Spokane Democratic Socialists of America.
 
-This site is built with [VuePress](https://v2.vuepress.vuejs.org/) using the [Plume theme](https://github.com/pengzhanbo/vuepress-theme-plume) and automatically deploys to GitHub Pages.
+This site is built with [VuePress](https://vuepress.vuejs.org/) using the [Yuu theme](https://github.com/Danktuary/vuepress-theme-yuu) and automatically deploys to GitHub Pages.
 
 ## Development
 
@@ -104,7 +104,11 @@ Simply edit the markdown files in the `docs/` directory. The site will rebuild a
 
 ## Theme Documentation
 
-For more information about available features and configuration options, see the [Plume theme documentation](https://theme-plume.vuejs.press/).
+For more information about available features and configuration options, see the [Yuu theme documentation](https://github.com/Danktuary/vuepress-theme-yuu).
+
+The site is configured with:
+- **Dark mode enabled by default** - Users can toggle between light and dark themes
+- **Red color theme** - Matching the DSA brand colors
 
 ## Contributing
 

@@ -11,10 +11,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.26",
-    "typescript": "^5.9.3",
-    "vuepress": "^2.0.0-rc.26",
-    "vuepress-theme-plume": "^1.0.0-rc.187"
+  "dependencies": {
+    "vuepress": "^1.9.10",
+    "vuepress-theme-yuu": "^3.1.1"
   }
 }
